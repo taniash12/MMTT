@@ -13,6 +13,8 @@
 .div-block{
     width: 310px;
     height: 430px;
+    border: 1px solid;
+    border-color: #EAECF0;
 }
 .div-element{
     width: 1336px;
@@ -24,21 +26,29 @@
     color: #282828;
     line-height: 30px;
     font-weight: 600;
+    margin-left: 15px;
 }
 .div-p1{
     font-size: 14px;
     color: #3E3E59;
     line-height: 22px;
     font-weight: 400;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
 }
-.div-P2{
+.div-p2{
     font-size: 14px;
     color: #5F6980;
     line-height: 22px;
+    width: 270px;
+    text-align: justify;
     font-weight: 400;
+    margin-left: 15px;
 }
 .div-icon{
-    margin-top: 20px;
+    margin-top: 25px;
+    margin-left: 15px;
 }
 .h1-title{
     font-size: 16px;
@@ -81,6 +91,7 @@
 }
 .footer-bg{
     background-color: #53535354;
+    margin-top: 30px;
 }
 .footer-div1{
     width: 1306px;
@@ -131,6 +142,7 @@
     width: 80px;
     height: 45px;
     background-color: #054A68;
+    margin-top: 40px;
 }
 .petit-box-p{
     color: #FFFFFF;
@@ -143,6 +155,7 @@
     color: #535353;
     font-size: 14px;
     line-height: 16.94px;
+    margin-top: 30px;
 }
 .active{
     margin-bottom: 35px;
